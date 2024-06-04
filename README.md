@@ -1,7 +1,8 @@
 # Prep-Air-s-Flow-Card_Analysis
 This project ias a continuation of [Prep-Air-s-Flow-Card](https://github.com/kayikalvin/Prep-Air-s-Flow-Card)
 This week the challenge will involve unions, aggregation and reshaping data.
-Requirements
+
+## Requirements
 a. Input the two csv files
 b. Union the files together
 c. Convert the Date field to a Quarter Number instead
